@@ -1,0 +1,2 @@
+notes:
+write your first program in C++
